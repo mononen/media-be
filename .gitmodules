@@ -1,0 +1,3 @@
+[submodule "charts/kube-plex"]
+	path = charts/kube-plex
+	url = git@github.com:mononen/kube-plex.git
